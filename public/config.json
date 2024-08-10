@@ -1,0 +1,249 @@
+{
+    "anasayfa": {
+        "baslik1": "MERHABA, BEN",
+        "isim": "ÖZGÜR",
+        "baslik2": {
+            "yazilar": [
+                "FRONT END DEVELOPER",
+                "BACK END DEVELOPER"
+            ]
+        },
+        "resim": "/images/avatar.png",
+        "yazi": "20 yaşındayım ve web geliştirme alanında kendi izimi çizmeye kararlıyım. Kodların sihirli dünyasına olan tutkumla, her bir proje için yenilikçi ve estetik odaklı çözümler sunmaya odaklanıyorum. Web dünyasında yaratıcı izler bırakmak için buradayım."
+    },
+    "hakkimda": {
+        "musteriAdet": "100",
+        "projeAdet": "70",
+        "memnuniyet": "99",
+        "deneyim": "3"
+    },
+    "projeler": [
+        {
+            "projeAd": "Hosting",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/hosting2_1.png",
+                "/images/projeler/hosting2_2.png",
+                "/images/projeler/hosting2_3.png",
+                "/images/projeler/hosting2_4.png",
+                "/images/projeler/hosting2_5.png"
+            ]
+        },
+        {
+            "projeAd": "Diyetisyen",
+            "projeSite": "https://esrakaralar.com",
+            "projeResimler": [
+                "/images/projeler/diyetisyen1_1.png",
+                "/images/projeler/diyetisyen1_2.png",
+                "/images/projeler/diyetisyen1_3.png"
+            ]
+        },
+        {
+            "projeAd": "Restoran",
+            "projeSite": "https://lilyrestoran.com",
+            "projeResimler": [
+                "/images/projeler/lily_1.png"
+            ]
+        },
+        {
+            "projeAd": "TAF",
+            "projeSite": "https://www.taf.org.tr",
+            "projeResimler": [
+                "/images/projeler/taf_1.png",
+                "/images/projeler/taf_2.png",
+                "/images/projeler/taf_3.png",
+                "/images/projeler/taf_4.png"
+            ]
+        },
+        {
+            "projeAd": "Turizm",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/turizm_1.jpg",
+                "/images/projeler/turizm_2.jpg",
+                "/images/projeler/turizm_3.jpg",
+                "/images/projeler/turizm_4.jpg"
+            ]
+        },
+        {
+            "projeAd": "Şirket",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/sirket2_1.png",
+                "/images/projeler/sirket2_2.png"
+            ]
+        },
+        {
+            "projeAd": "E-Ticaret",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/eticaret3_1.png",
+                "/images/projeler/eticaret3_2.png",
+                "/images/projeler/eticaret3_3.png"
+            ]
+        },
+        {
+            "projeAd": "E-Ticaret",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/eticaret.jpeg"
+            ]
+        },
+        {
+            "projeAd": "Tıp",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/tip.jpeg"
+            ]
+        },
+        {
+            "projeAd": "Hukuk",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/hukuk.jpeg"
+            ]
+        },
+        {
+            "projeAd": "Şirket",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/sirket.jpeg"
+            ]
+        },
+        {
+            "projeAd": "Tekstil",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/tekstil.jpeg"
+            ]
+        },
+        {
+            "projeAd": "Ticaret",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/satis.jpeg"
+            ]
+        },
+        {
+            "projeAd": "Hosting",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/hosting.jpeg"
+            ]
+        },
+        {
+            "projeAd": "E-Ticaret",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/eticaret2.jpeg"
+            ]
+        },
+        {
+            "projeAd": "Rehber",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/rehber1_1.png",
+                "/images/projeler/rehber1_2.png",
+                "/images/projeler/rehber1_3.png"
+            ]
+        },
+        {
+            "projeAd": "Giyim",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/giyim.png"
+            ]
+        },
+        {
+            "projeAd": "Test",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/test.png"
+            ]
+        },
+        {
+            "projeAd": "E-Ticaret",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/eticaret5_1.png",
+                "/images/projeler/eticaret5_2.png",
+                "/images/projeler/eticaret5_3.png"
+            ]
+        }
+    ],
+    "yetenekler": [
+        {
+            "isim": "HTML",
+            "icon": "skill-icons:html"
+        },
+        {
+            "isim": "CSS",
+            "icon": "skill-icons:css"
+        },
+        {
+            "isim": "Javascript",
+            "icon": "skill-icons:javascript"
+        },
+        {
+            "isim": "Bootstrap",
+            "icon": "skill-icons:bootstrap"
+        },
+        {
+            "isim": "TailwindCSS",
+            "icon": "skill-icons:tailwindcss-dark"
+        },
+        {
+            "isim": "React",
+            "icon": "devicon:react"
+        },
+        {
+            "isim": "NextJS",
+            "icon": "devicon:nextjs"
+        },
+        {
+            "isim": "PHP",
+            "icon": "skill-icons:php-dark"
+        },
+        {
+            "isim": "NodeJS",
+            "icon": "skill-icons:nodejs-dark"
+        },
+        {
+            "isim": "ExpressJS",
+            "icon": "skill-icons:expressjs-dark"
+        },
+        {
+            "isim": "MySQL",
+            "icon": "skill-icons:mysql-dark"
+        },
+        {
+            "isim": "PostgreSQL",
+            "icon": "skill-icons:postgresql-dark"
+        },
+        {
+            "isim": "C#",
+            "icon": "devicon:csharp"
+        },
+        {
+            "isim": "Python",
+            "icon": "skill-icons:python-dark"
+        }
+    ],
+    "iletisim": [
+        {
+            "name": "Github",
+            "username": "@ozguryurt",
+            "URL": "https://github.com/ozguryurt"
+        },
+        {
+            "name": "Linkedin",
+            "username": "@ozguryurt",
+            "URL": "https://tr.linkedin.com/in/ozguryurt"
+        },
+        {
+            "name": "Mail",
+            "username": "ozgurryurtt@gmail.com",
+            "URL": "mailto:ozgurryurtt@gmail.com"
+        }
+    ]
+}
